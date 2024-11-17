@@ -3,3 +3,4 @@ new line2345
 new branch line
 conflicted line
 local
+local conf
