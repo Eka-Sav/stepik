@@ -1,3 +1,4 @@
 new line123
 new line2345
 new branch line
+conflicted line
