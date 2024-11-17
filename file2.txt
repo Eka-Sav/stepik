@@ -2,5 +2,6 @@ new line123
 new line2345
 new branch line
 conflicted line
-local
-local conf
+github
+git conflict
+
